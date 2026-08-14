@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou Peterson Sales
 
-### Analista de Suporte • Desenvolvedor • Cloud & DevOps em formação
+### Analista de Sistemas • Desenvolvedor • Cloud & DevOps em formação
 
 Transformando experiência em suporte, Linux e desenvolvimento em soluções de infraestrutura e automação.
 
@@ -13,10 +13,11 @@ Transformando experiência em suporte, Linux e desenvolvimento em soluções de 
 
 ## 🚀 Sobre mim
 
-- 💼 Analista de Suporte com experiência em ambientes Linux e PDV
+- 💼 Analista de Sistemas com experiência em ambientes Linux e PDV
+- 🔐 Atuação atual em Gestão de Acessos
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - ☁️ Estudando AWS, Docker, Terraform e Kubernetes
-- 🎯 Objetivo: atuar como Engenheiro Cloud / DevOps
+- 🎯 Desenvolvendo conhecimentos em Cloud e DevOps
 
 ---
 
