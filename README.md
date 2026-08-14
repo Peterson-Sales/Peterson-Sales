@@ -58,13 +58,15 @@ Transformando experiência em suporte, Linux e desenvolvimento em soluções de 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Peterson-Sales&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Sales&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
+🚀 Desenvolvendo projetos  
+💻 Aprendendo novas tecnologias  
+☁️ Evoluindo em Cloud & DevOps  
+
+</div>
 ---
 
 ## 📫 Contato
