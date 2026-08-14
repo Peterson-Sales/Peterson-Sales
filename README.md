@@ -61,8 +61,8 @@ Transformando experiência em suporte, Linux e desenvolvimento em soluções de 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Peterson-Sales&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Sales&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
